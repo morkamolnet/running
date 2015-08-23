@@ -1,0 +1,15 @@
+body {
+  font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    width: 100%;
+    background-image: linear-gradient(to bottom, rgba(16, 32, 41, 0.6), rgba(16, 32, 41, 0.6)), url("../images/bg.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+}
+
+a {
+    text-decoration: none !important;
+}
